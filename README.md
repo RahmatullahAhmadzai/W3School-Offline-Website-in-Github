@@ -1,0 +1,4 @@
+# W3School-Offline-Website-in-Github
+Download W3School Offline Version 2022 Website for free in Github
+The W3shool website is in .gitattributes
+Offline W3School Website is a pre-built website template that provides a local version of the popular W3Schools website. It includes a wide range of tutorials, examples, and references for web development, including HTML, CSS, JavaScript, and more. The template can be downloaded from GitHub and used offline, making it a great option for developers who work in areas with limited internet connectivity or want to develop without distractions. The template is fully customizable, and developers can easily modify the code to suit their needs. It is also regularly updated, ensuring that developers have access to the latest web development resources and technologies.
